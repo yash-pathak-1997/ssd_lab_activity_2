@@ -6,6 +6,7 @@ For Question1:
 		./q1.sh filename
 
 For Question2:
+	
 	Commands to run:
 		chmod +x q2.sh
 		./q2.sh
